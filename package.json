@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/northcoders/be-pg-themeparks#readme",
   "dependencies": {
-    "pg": "^8.10.0"
+    "pg": "^8.10.0",
+    "pg-format": "^1.0.4"
   }
 }
